@@ -121,7 +121,7 @@ ul li::before {
     background-image: url(unchecked.png);
     background-size: cover;
     background-position: center;
-    top: 12px;
+    top: 22px;
     left: 8px;
 }
 
@@ -135,9 +135,10 @@ ul li.checked::before {
 }
 
 ul li span {
-    position: absolute;
+    position:relative;
+    left:300px;
     right: 0;
-    top: 50%;
+    top: 5px;
     transform: translateY(-50%);
     width: 40px;
     height: 40px;
@@ -155,14 +156,15 @@ ul li span:hover {
 }
 
 /* Responsive adjustments */
-@media (max-width: 600px) {
+@media (max-width: 680px) {
     body {
         padding: 15px;
+        
     }
     
     .todo-app {
         margin: 20px auto;
-        padding: 20px 15px 30px;
+        padding: 10px 15px 10px;
     }
 
     .row {
@@ -193,7 +195,7 @@ ul li span:hover {
 
 @media (max-width: 400px) {
     body {
-        padding: 10px;
+        padding: 20px auto;
     }
     
     .todo-app {
