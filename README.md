@@ -2,7 +2,8 @@
 
 A **fully responsive** To-Do List web app built using **HTML, CSS, and JavaScript**. Easily add, delete, and manage your tasks in a sleek and minimal user interface. This project is perfect for beginners learning front-end web development.
 
-![image](https://github.com/user-attachments/assets/5d39b681-019f-4c6f-b905-17ee044c09fa)
+![image](https://github.com/user-attachments/assets/242d3df3-5fec-4e96-80ad-bcd783ed46fa)
+
 
 
 ## 🚀 Features
