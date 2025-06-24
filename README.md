@@ -11,12 +11,6 @@ A **fully responsive** To-Do List web app built using **HTML, CSS, and JavaScrip
 - 📱 Fully responsive on mobile, tablet, and desktop
 - 🌙 Clean and modern UI
 
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](![image](https://github.com/user-attachments/assets/17970b97-daa3-42b0-b9b8-a455abf16b4f)) | ![Mobile](![image](https://github.com/user-attachments/assets/382bf59d-a83e-4c1f-b511-dbdd115d2d5e)
-) |
 
 ## 🔧 Tech Stack
 
